@@ -1,8 +1,8 @@
 {
   "name": "@ijusplab/static-assets",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Static assets to be used in iJuspLab's projects",
-  "files": ["./assets/"],
+  "files": ["assets/*"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ijusplab/static-assets.git"
