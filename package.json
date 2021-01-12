@@ -1,0 +1,17 @@
+{
+  "name": "@ijusplab/static-assets",
+  "version": "1.0.0",
+  "description": "Static assets to be used in iJuspLab's projects",
+  "files": ["assets/*"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijusplab/static-assets.git"
+  },
+  "author": "Caio Moysés de Lima",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ijusplab/static-assets/issues",
+    "email": "caio.moyses.lima@gmail.com"
+  },
+  "homepage": "https://github.com/ijusplab/static-assets#readme"
+}
