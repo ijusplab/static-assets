@@ -1,6 +1,6 @@
 {
   "name": "@ijusplab/static-assets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Static assets to be used in iJuspLab's projects",
   "files": ["assets/*"],
   "repository": {
